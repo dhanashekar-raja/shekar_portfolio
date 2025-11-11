@@ -2,7 +2,7 @@
 **Contact:** Mobile: +91 7411250565 | E-mail: dhanashekar72@gmail.com LinkedIn: https://www.linkedin.com/in/dhanashekar-raja
 
 ## 📌 Professional Summary
-Innovative Technical Writer with 6+ years of experience in IT, specializing in Agile documentation and digital content development. Certified in MadCap Flare with proven expertise in DDLC, Online Help Documentation, AWS, and GitLab.
+Innovative Technical Writer with 8+ years of experience in IT, specializing in Agile documentation and digital content development. Certified in MadCap Flare with proven expertise in DDLC, Online Help Documentation, AWS, and GitLab.
 
 ## 🛠 Skills
 ![MadCap Flare](https://img.shields.io/badge/-MadCap%20Flare-blue) 
