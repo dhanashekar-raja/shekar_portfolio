@@ -2,7 +2,7 @@
 **Contact:** Mobile: +91 7411250565 | E-mail: dhanashekar72@gmail.com LinkedIn: https://www.linkedin.com/in/dhanashekar-raja
 
 ## 📌 Professional Summary
-Dynamic Technical Writer and Business Analyst with 8+ years of experience in IT, specializing in Agile documentation and digital content development. Certified in MadCap Flare with proven expertise in DDLC, online help systems, Markdown, AWS, and GitLab. Skilled in creating user-centric technical documentation, knowledge bases, and training materials that enhance customer experience and support product adoption. Adept at leveraging HTML and CSS for web-based content customization and troubleshooting.
+Technical Writer / Support Engineer with 8+ years of experience supporting enterprise and SaaS products through customer-facing documentation, knowledge bases, and technical issue analysis. Proven ability to collaborate with Support, Engineering, QA, and Product teams to troubleshoot issues, document solutions, and improve customer experience. Strong hands-on experience with Git-based workflows, Markdown, Agile development, and web technologies (HTML/CSS). Known for translating complex technical concepts into clear, actionable guidance for both customers and internal teams.
 
 ## 🛠 Skills
 ![MadCap Flare](https://img.shields.io/badge/-MadCap%20Flare-blue) 
@@ -20,30 +20,33 @@ Dynamic Technical Writer and Business Analyst with 8+ years of experience in IT,
 ## 💼 Experience Highlights
 ### Technical Writer II, Fortra (July 2022 to Present)
 **Roles And Responsibilities**
-- Create and maintain product documentation for print and online help using MadCap Flare.
-- Write and publish Knowledge Base (KB) articles in Microsoft Dynamics 365, ensuring accurate and accessible content for customers.
-- Collaborate with designers, developers, and product managers to deliver user-focused KB articles and release notes aligned with brand voice.
-- Participate in product demos and sprint meetings to gather insights for upcoming releases.
-- Research and write web content for customers, including contributions to quarterly newsletters.
-- Utilize Jira and Confluence to track and document bug fixes and feature updates.
-- Create and maintain README documentation in GitLab repositories using Markdown, ensuring clarity and consistency for development teams.
-- Apply version control best practices to manage documentation updates and track changes effectively.
-- Test UI workflows for accuracy and report inconsistencies to QA teams.
-- Manage source files and documentation workflows using GitLab and Microsoft Dynamics 365 (D365) for version control and content integrity.
-- Generate and publish HTML outputs for technical documentation hosted on AWS, ensuring global accessibility and scalability.
-- Demonstrate working knowledge of HTML and CSS to customize and troubleshoot web-based documentation layouts.
+- Developed and maintained customer-facing documentation and knowledge base (KB) articles that support issue resolution, product understanding, and self-service for SaaS users.
+- Authored, reviewed, and published KB articles and release notes in Microsoft Dynamics 365, ensuring accuracy, clarity, and alignment with customer support workflows.
+- Partnered closely with Support, Engineering, Product, and QA teams to translate technical concepts into user-friendly documentation that improves customer experience.
+- Participated in product demos, sprint meetings, and Agile ceremonies to stay aligned with upcoming features, bug fixes, and customer-impacting changes.
+- Created and maintained README and developer-facing documentation in GitLab using Markdown, supporting internal teams with setup guidance, workflows, and troubleshooting context.
+- Applied Git-based version control best practices to track documentation changes and maintain content integrity across releases.
+- Tested UI workflows from an end-user perspective, identified defects and inconsistencies, and collaborated with QA teams to resolve issues affecting usability.
+- Documented bug fixes, feature updates, and known issues using Jira and Confluence, enabling better cross-team visibility and faster resolution.
+- Generated and published HTML-based documentation hosted on AWS, ensuring scalable and globally accessible help content.
+- Used HTML and CSS to customize and troubleshoot web-based documentation layouts and resolve display issues.
+- Contributed customer-focused content to quarterly newsletters, improving awareness of product enhancements and best practices.
 
 ### Senior Business Analyst - Technical Writer, eClinicalWorks (Apr 2018 to Jan 2021)
 **Roles and Responsibilities**
-- Produced high-quality documentation using Agile methodology, ensuring compliance with standards and alignment with audience needs.
-- Conducted stakeholder interviews with developers, SMEs, and business analysts to gather product knowledge and prepare release notes and change logs.
-- Delivered clear and professional communications, including meeting materials, forms, presentations, and record-keeping databases.
-- Documented and distributed meeting minutes to ensure accurate tracking of discussions and action items.
-- Analyzed and evaluated EMR/EHR product UI workflows post-release, reporting bugs and inconsistencies to QA teams.
-- Managed and maintained documents on Microsoft SharePoint and OneDrive, including synchronization, backup, publishing, and archiving for Knowledge Hub and Customer Portal.
+- Produced clear, structured customer- and internal-facing documentation in an Agile development environment, supporting product usability and issue resolution.
+- Collaborated with developers, SMEs, QA, and product stakeholders to gather technical details and translate them into release notes, change logs, and workflow documentation.
+- Conducted post-release analysis of EMR/EHR UI workflows, identifying usability issues and defects, and worked with QA and engineering teams to ensure timely resolution.
+- Supported customer-facing teams by documenting known issues, feature changes, and process updates, improving transparency and reducing repeat inquiries.
+- Facilitated stakeholder interviews and technical discussions to clarify system behavior, edge cases, and customer-impacting changes.
+- Created and maintained a knowledge hub and customer portal content using Microsoft SharePoint and OneDrive, ensuring version control, accessibility, and audit readiness.
+- Documented meeting outcomes, action items, and technical decisions to ensure alignment across cross-functional teams.
+- Prepared professional communications, presentations, and reference materials to support internal training and customer enablement.
+- Applied strong attention to detail and documentation standards to ensure accuracy, consistency, and compliance in regulated healthcare environments.
+
 ### 🛠 Skills and Tools Used
 - Expertise in EMR/EHR systems for workflow analysis and documentation.
-- Proficient in the Microsoft 365 suite, including SharePoint, OneDrive, Word, Excel, Visio, OneNote, Teams, Yammer, Planner, and PowerPoint, with expertise in document management, collaboration, and workflow optimization.
+- Proficient in the Microsoft 365 suite, with expertise in document management, collaboration, and workflow optimization.
 - Proficient in Adobe FrameMaker, Acrobat DC Pro, and Adobe Photoshop.
 - Skilled in Jira, Confluence, and social media tools for collaboration and content management.
 - Solid understanding of U.S. ambulatory healthcare services and operations.
@@ -96,6 +99,10 @@ Dynamic Technical Writer and Business Analyst with 8+ years of experience in IT,
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>MadCap Advance Developer</td>
+<td>MadCap Software – 2025 - Advanced documentation architecture, content reuse, and version control–friendly workflows.</td>
+</tr>  
 <tr>
 <td>Technical Writing</td>
 <td>Completed through Coursera and authorized by Moscow Institute of Physics and Technology - Credential ID 49JKNYWBH9PW - 2021.</td>
