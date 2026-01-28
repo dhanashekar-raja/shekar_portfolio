@@ -54,17 +54,17 @@ Technical Writer / Support Engineer with 8+ years of experience supporting enter
 ## 💼 Experience Highlights
 ### Technical Writer II, Fortra (July 2022 to Present)
 **Roles And Responsibilities**
-- Developed and maintained customer-facing documentation and knowledge base (KB) articles that support issue resolution, product understanding, and self-service for SaaS users.
-- Authored, reviewed, and published KB articles and release notes in Microsoft Dynamics 365, ensuring accuracy, clarity, and alignment with customer support workflows.
-- Partnered closely with Support, Engineering, Product, and QA teams to translate technical concepts into user-friendly documentation that improves customer experience.
-- Participated in product demos, sprint meetings, and Agile ceremonies to stay aligned with upcoming features, bug fixes, and customer-impacting changes.
-- Created and maintained README and developer-facing documentation in GitLab using Markdown, supporting internal teams with setup guidance, workflows, and troubleshooting context.
-- Applied Git-based version control best practices to track documentation changes and maintain content integrity across releases.
-- Tested UI workflows from an end-user perspective, identified defects and inconsistencies, and collaborated with QA teams to resolve issues affecting usability.
-- Documented bug fixes, feature updates, and known issues using Jira and Confluence, enabling better cross-team visibility and faster resolution.
-- Generated and published HTML-based documentation hosted on AWS, ensuring scalable and globally accessible help content.
-- Used HTML and CSS to customize and troubleshoot web-based documentation layouts and resolve display issues.
-- Contributed customer-focused content to quarterly newsletters, improving awareness of product enhancements and best practices.
+- Develop and maintain customer-facing documentation and knowledge base (KB) articles that support issue resolution, product understanding, and self-service for SaaS users.
+- Author, review, and publish KB articles and release notes in Microsoft Dynamics 365, ensuring accuracy, clarity, and alignment with customer support workflows.
+- Partner closely with Support, Engineering, Product, and QA teams to translate technical concepts into user-friendly documentation that improves customer experience.
+- Participate in product demos, sprint meetings, and Agile ceremonies to stay aligned with upcoming features, bug fixes, and customer-impacting changes.
+- Create and maintain README and developer-facing documentation in GitLab using Markdown, supporting internal teams with setup guidance, workflows, and troubleshooting context.
+- Apply Git-based version control best practices to track documentation changes and maintain content integrity across releases.
+- Test UI workflows from an end-user perspective, identified defects and inconsistencies, and collaborated with QA teams to resolve issues affecting usability.
+- Document bug fixes, feature updates, and known issues using Jira and Confluence, enabling better cross-team visibility and faster resolution.
+- Generate and publish HTML-based documentation hosted on AWS, ensuring scalable and globally accessible help content.
+- Use HTML and CSS to customize and troubleshoot web-based documentation layouts and resolve display issues.
+- Contribute customer-focused content to quarterly newsletters, improving awareness of product enhancements and best practices.
 
 ### Senior Business Analyst - Technical Writer, eClinicalWorks (Apr 2018 to Jan 2021)
 **Roles and Responsibilities**
